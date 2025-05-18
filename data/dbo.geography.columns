@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"GeographyID","INTEGER","2","2","0"
+"Country","STRING","11","0","0"
+"City","STRING","9","0","0"

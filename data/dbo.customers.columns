@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"CustomerID","INTEGER","3","3","0"
+"CustomerName","STRING","17","0","0"
+"Email","STRING","29","0","0"
+"Gender","STRING","6","0","0"
+"Age","INTEGER","2","2","0"
+"GeographyID","INTEGER","2","2","0"

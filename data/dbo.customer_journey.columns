@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"JourneyID","INTEGER","4","4","0"
+"CustomerID","INTEGER","3","3","0"
+"ProductID","INTEGER","2","2","0"
+"VisitDate","STRING","10","0","0"
+"Stage","STRING","11","0","0"
+"Action","STRING","8","0","0"
+"Duration","STRING","5","0","0"

@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"ReviewID","INTEGER","4","4","0"
+"CustomerID","INTEGER","3","3","0"
+"ProductID","INTEGER","2","2","0"
+"ReviewDate","STRING","10","0","0"
+"Rating","INTEGER","1","1","0"
+"ReviewText","STRING","65","0","0"
